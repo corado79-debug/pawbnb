@@ -8,7 +8,7 @@ export default function Home() {
         </span>
         <nav className="hidden items-center gap-8 text-sm font-medium text-ink/70 md:flex">
           <a href="#como-funciona" className="hover:text-ink">Cómo funciona</a>
-          <a href="#cuidadores" className="hover:text-ink">Para cuidadores</a>
+          <a href="/cuidador/nuevo" className="hover:text-ink">Para cuidadores</a>
           <a href="/login" className="hover:text-ink">Iniciar sesión</a>
         </nav>
         <a
