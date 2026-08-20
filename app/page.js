@@ -9,7 +9,7 @@ export default function Home() {
         <nav className="hidden items-center gap-8 text-sm font-medium text-ink/70 md:flex">
           <a href="#como-funciona" className="hover:text-ink">Cómo funciona</a>
           <a href="#cuidadores" className="hover:text-ink">Para cuidadores</a>
-          <a href="#" className="hover:text-ink">Iniciar sesión</a>
+          <a href="/login"" className="hover:text-ink">Iniciar sesión</a>
         </nav>
         <a
           href="#buscar"
